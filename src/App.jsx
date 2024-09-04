@@ -1,9 +1,12 @@
+import { Quiz } from './componentes/Quiz'
+
 import './styles/global.css'
+
 function App() {
   return (
-    <>
-    <h1>hello word</h1>
-    </>
+    
+    <Quiz/>
+   
   )
 }
 
